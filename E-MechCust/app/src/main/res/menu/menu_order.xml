@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.arieahmad.e_mech.Order">
+
+    <item
+        android:id="@+id/add_service"
+        android:icon="@android:drawable/ic_input_add"
+        android:orderInCategory="201"
+        android:title="Add"
+        app:showAsAction="always">
+
+    </item>
+
+</menu>

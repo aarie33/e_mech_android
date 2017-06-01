@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">E-Mech</string>
+    <string name="title_activity_home_cust">HomeCust</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_order">Order</string>
+    <string name="title_activity_cari_teknisi">Cari Teknisi</string>
+    <string name="title_home">Home</string>
+    <string name="title_cariteknisi">Cari Teknisi</string>
+    <string name="title_order">Order</string>
+    <string name="title_akun">Akun</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_akun">Akun</string>
+
+    <array name="servis">
+        <item>Laptop</item>
+        <item>Komputer</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
